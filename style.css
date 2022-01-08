@@ -28,4 +28,12 @@ section{
 .top-banner{
     background-image: url(images/ms.jpg);
     background-repeat: no-repeat;
+    
+}
+#db{
+    background-color: chocolate;
+    text-align: right;
+}
+#dream-style{
+    margin-left: 10px;
 }
